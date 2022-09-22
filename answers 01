@@ -1,0 +1,31 @@
+01)
+    $a = 4
+    $b = 3
+
+02)
+    both ways can be use
+
+03)
+    it uses static in the function
+
+04)
+    var_dump(0123 == 123); - fales
+    var_dump('0123' == 123); - true
+    var_dump('0123' === 123); - fales
+
+05)
+    By adding double codes (") before and after the string value;
+    Ex :- $str1 = 'This is a test string';
+
+06)
+    By Adding Brackets to $a + $b before division
+    Ex :- return ($a + $b) / 2;
+
+07)
+    SELECT * FROM Cities ORDER BY Name DESC;
+
+08)
+    This query is used to select Names from Purchaser table whether there is having an order for certain Purchaser.
+
+09)
+    Select Name FROM <table_name> GROUP BY Name Having COUNT(*) > 1;
